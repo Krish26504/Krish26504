@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Krish26504
+- 👋 Hi, I’m @Krish
 - 👀 I’m interested in ...WEBD
 - 🌱 I’m currently learning ...C++ JAVA
 - 💞️ I’m looking to collaborate on ...Open Source Projects

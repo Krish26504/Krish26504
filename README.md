@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Krish
 - 👀 I’m interested in ...WEBD
-- 🌱 I’m currently learning ...C++ JAVA
+- 🌱 I’m currently learning ...C++ Full Stack Web Development, MongoDB, OpenChat AI and Solidity
 - 💞️ I’m looking to collaborate on ...Open Source Projects
 - 📫 How to reach me ...
 
